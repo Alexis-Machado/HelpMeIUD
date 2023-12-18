@@ -1,0 +1,30 @@
+@media (min-width: 768.111px) {
+    .logout{
+        margin-left: 25px;
+    }
+}
+
+.navbar-brand {
+    color: #00E0FF;
+}
+
+.smallLogo {
+    width: 300px;
+    height: auto;
+  }
+
+  .neon {
+    font-size: 6em;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 0 5px #2f03f4,
+    0 0 25px #2f03f4,
+    0 0 50px #2f03f4,
+    0 0 100px #2f03f4;
+    letter-spacing: 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: 1s;
+    font-size: 30px;
+    font-family: forte;
+  }

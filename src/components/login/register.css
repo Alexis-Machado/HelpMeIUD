@@ -1,0 +1,109 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .register-form {
+    width: 70%;
+    max-width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .register-form h4 {
+    text-align: center;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 5px;
+  }
+  
+  .button-standard {
+    margin-top: 10px;
+  }
+  
+  .form-check {
+    margin-bottom: 10px;
+  }
+  
+  .link-terms {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .link-terms:hover {
+    text-decoration: underline;
+  }
+
+  .button-standard {
+    width: 100%;
+  }
+  
+  .link-terms {
+    display: block; 
+    margin-top: 10px; 
+  }
+  .link-terms {
+    display: block;
+    margin-top: 10px;
+    text-align: center; 
+  }
+  
+  .link-terms a {
+    display: inline-block;
+  }
+
+  .neonregister {
+    font-size: 6em;
+    font-weight: 500;
+    color: #002b58;
+    letter-spacing: 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: 1s;
+    font-size: 30px;
+    font-family: forte;
+}
+.icon-container1 {
+    position: absolute;
+    top: 30.7%;
+    left: 712px;
+    transform: translateY(-50%);
+    color: #000000; 
+  }
+  .icon-container2 {
+    position: absolute;
+    top: 30.7%;
+    left: 1205px;
+    transform: translateY(-50%);
+    color: #000000; 
+  }
+.icon-container3 {
+    position: absolute;
+    top: 43.3%;
+    left: 1205px;
+    transform: translateY(-50%);
+    color: #000000; 
+  }
+  .icon-container4 {
+    position: absolute;
+    top: 55.6%;
+    left: 1205px;
+    transform: translateY(-50%);
+    color: #000000; 
+  }
+
+  
+  
+  
+  

@@ -1,0 +1,109 @@
+.background-section {
+  background-image: url('Medellín.jpg') !important;
+  background-size: cover !important;
+  background-position: center -20% !important; 
+}
+
+.container {
+  padding-top: 10px; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: -100px;
+}
+
+.table {
+  width: 100%;
+  margin: 0 auto;
+  border: 3px solid #000; 
+  border-radius: 15px; 
+}
+
+/* Centrar los textos en las celdas de la tabla */
+.table td,
+.table th {
+  text-align: center;
+  border: 3px solid #000; 
+}
+
+.table thead th {
+  background-color: #e2e2e2;
+}
+
+.table{
+  background-color: #ffffff;
+}
+
+/* Estilo para los botones */
+button {
+  background-color: transparent;
+  color: white;
+  border: 1px solid #ffffff;
+  padding: 8px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 4px;
+}
+
+button:hover {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.neon {
+  font-size: 6em;
+  font-weight: 500;
+  color: rgb(23, 8, 75);
+  text-shadow: 0 0 5px #ffffff,
+  0 0 25px #ffffff,
+  0 0 50px #000000,
+  0 0 100px #000000;
+  letter-spacing: 5px;
+  cursor: pointer;
+  text-transform: uppercase;
+  transition: 1s;
+  font-size: 25px;
+  font-family: forte;
+}
+
+.neon2 {
+  font-size: 6em;
+  font-weight: 500;
+  color: rgb(7, 243, 243);
+  text-shadow: 0 0 5px #000000,
+  0 0 25px #ffffff,
+  0 0 50px #000000,
+  0 0 100px #ffffff;
+  letter-spacing: 5px;
+  cursor: pointer;
+  text-transform: uppercase;
+  transition: 1s;
+  font-size: 25px;
+  font-family: forte;
+}
+
+.form-label {
+  color: rgb(0, 0, 0);
+}
+
+.table-data-large {
+  font-size: 25px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.neon3 {
+  font-size: 6em;
+  font-weight: 500;
+  color: rgb(0, 0, 0);
+  text-shadow: 0 0 5px #ffffff,
+  0 0 25px #ffffff,
+  0 0 50px #000000,
+  0 0 100px #ffffff;
+  letter-spacing: 5px;
+  cursor: pointer;
+  text-transform: uppercase;
+  transition: 1s;
+  font-size: 25px;
+  font-family: forte;
+}
